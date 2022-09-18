@@ -1,3 +1,4 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://interrail22.nafn.de/"
+languageCode = "de-de"
+title = "Vacation by train"
+theme = "ananke"
