@@ -118,7 +118,7 @@ Eine davon ist, dass wir schnellstmöglich wieder in den Schengenraum kommen.
 
 ---
 
-Was man hier öfter sieht, was ich aus deutschland nur aus der Schulzeit kenne:
+Was man hier öfter sieht, was ich aus Deutschland nur aus der Schulzeit kenne:
 Der letzte Waggon ist gleichzeitig auch ein Fenster nach hinten.
 
 {{< vimeo 752998223 >}}
