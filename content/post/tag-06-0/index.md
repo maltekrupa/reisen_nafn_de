@@ -112,7 +112,7 @@ bevor er einfach geht. Wir halten unsere Ausweiße in der Hand, schauen uns an
 und sind noch immer unsicher, was gerade passiert ist.
 
 Der Zug fährt los und wir verbringen die nächsten Stunden damit unsere Optionen
-zu durchleuchten.
+zu eruieren.
 
 Eine davon ist, dass wir schnellstmöglich wieder in den Schengenraum kommen.
 
