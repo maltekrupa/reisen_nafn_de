@@ -20,7 +20,7 @@ Bäckereien, an der anderen Seite reiht sich ein Kiosk an den anderen.
 ---
 
 Der eine Tag in Budapest war beeindruckend. Nach mittlerweile zwölf Jahren in
-Frankfurt dachte ich eigentlich, dass ich weiß wie eine Autozentrierte Stadt
+Frankfurt dachte ich eigentlich, dass ich weiß wie eine autozentrierte Stadt
 aussieht und sich anfühlt.
 
 Dann kamen wir nach Budapest und ich war leicht schockiert wie verdreckt die
@@ -44,19 +44,19 @@ temporären Ausweiß zu bekommen, damit Marina nach Frankfurt fliegen kann und
 dort ihren Reisepass holen kann. Das klang erstmal besser als die ganze Strecke
 wieder zurückzufahren.
 
-Unserer frisch abgehobenen Rumänischen Leu beraubt kommen wir kurze Zeit später
-bei der Botschaft an. Wie üblich für eine Deutsche Behörde soll sie heute
+Unserer frisch abgehobenen rumänischen Leu beraubt kommen wir kurze Zeit später
+bei der Botschaft an. Wie üblich für eine deutsche Behörde soll sie heute
 angeblich geschlossen sein. Laut Website und Telefonansage ist das nicht der
-Fall, aber dem Bewaffneten Herren am Eingang war das egal. Als wir dann den
+Fall, aber dem bewaffneten Herren am Eingang war das egal. Als wir dann den
 einzig anderen Deutschen fröhlich auf einem Rad anfahren sehen und diesen darauf
 ansprechen, erzählt er auch nur, dass heute geschlossen ist. Später stellte sich
-raus, dass es einer der Deutschen Diplomaten war. Auch nur ein arbeitsscheuer Beamter.
+raus, dass es einer der deutschen Diplomaten war. Auch nur ein arbeitsscheuer Beamter.
 
 Einen Termin kann man auf der Website der Botschaft zwar klicken, aber erst
 für die nächste Woche. Das ist uns zu lange, um die Zeit in Bukarest zu
 verbringen.
 
-Unsere Pläne ändern sich damit also Grundlegend.
+Unsere Pläne ändern sich damit also grundlegend.
 
 ---
 
@@ -81,7 +81,7 @@ anfühlt, aber allemal besser als Stress an den Grenzen.
 ---
 
 Wir verbringen den Tag also mit einer Freundin von Marina und ihrem Mann in
-einem netten Restaurant und sitzen ansonsten in verschiedenen Cafe's und
+einem netten Restaurant und sitzen ansonsten in verschiedenen Cafes und
 Restaurants in dieser viel zu hektischen und lauten Stadt.
 
 {{< figure src="autos.webp" title="Eine typische Kreuzung in Bukarest." >}}
@@ -107,7 +107,7 @@ Ansonsten lief der Rückweg ziemlich ähnlich wieder der Hinweg.
 Dank eines guten Angebots buchen wir das gleiche Hotel in Budapst,
 wie die Tage zuvor.
 
-Die Rumänischen Grenzbeamten ignorieren uns wie gehabt; die Ungarischen
+Die rumänischen Grenzbeamten ignorieren uns wie gehabt; die ungarischen
 Grenzbeamten sind die gleichen wie am Tag zuvor. Er erkennt uns, lacht und
 brabbelt etwas unverständliches. Marina ist aufgeregt und antwortet etwas
 ähnlich unverständliches. Zwei Minuten später fährt der Zug mit uns weiter.

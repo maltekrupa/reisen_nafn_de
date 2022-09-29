@@ -19,14 +19,14 @@ bereit und ich kanns nicht erwarten, wieder die Landschaft zu bewundern.
 Kurz nach der Abfahrt wurde ich vom Schaffner auch gleich darauf hingewiesen,
 dass ich mich nicht in der ersten Klasse sondern in der Business-Class befinde.
 Während ich nach meinem Rucksack greife, meint der Herr in feinstem
-Österreichischem Dialekt: "Aber, aber mein Herr, der Aufpreis sind nur 15
+österreichischem Dialekt: "Aber, aber mein Herr, der Aufpreis sind nur 15
 Euro".
 
 Das lasse ich mir nicht entgehen.
 
 Mit im Preis ist ein Getränk meiner Wahl und Bedienung durch das Bordbistro am
 Platz. Ich bestelle also ein heißes Wasser (Tee habe ich selbst dabei) und
-Stöbere in der Karte.
+stöbere in der Karte.
 
 Beim Bezahlen gibt es ein paar Computerprobleme, wofür sich der Herr mehrfach
 entschuldigt, aber dann genieße ich eine der bequemsten Zugfahrten, die ich je
@@ -34,7 +34,7 @@ erlebt habe.
 
 ---
 
-Ein Kontrahend in Sachen bequemlichkeit ist wohl nur ein alter IC, der mich
+Ein Kontrahend in Sachen Bequemlichkeit ist wohl nur ein alter IC, der mich
 morgens um vier betrunken vom
 [CCH](https://de.wikipedia.org/wiki/Congress_Center_Hamburg) nach Frankfurt gebracht hat.
 

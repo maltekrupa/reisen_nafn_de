@@ -7,7 +7,7 @@ featured_image: "bucuresti.webp"
 ---
 
 Wir kommen mit leichter Verspätung in Arad an und können den Nachtzug schon an
-einem anderen Gleis sehen. Der Zug ist leicht zu erkenne, weil er recht
+einem anderen Gleis sehen. Der Zug ist leicht zu erkennen, weil er recht
 auffällig bemalt ist. Sollte es irgendwo einen Zirkuszug geben, stelle ich ihn
 mir so vor.
 
@@ -40,7 +40,7 @@ nette Aufmerksamkeit.
 {{< figure src="nachtzug-verpflegung.webp" title="" >}}
 
 Die Kabine und der Zug sind sehr sauber. Auch das Badezimmer macht einen
-guten Eindruck. Es gibt noch eine verschlossenen Tür, die zur nächsten Kabine führt.
+guten Eindruck. Es gibt noch eine verschlossene Tür, die zur nächsten Kabine führt.
 Wenn man mit mehreren Personen reist, kann man ein "Apartment" buchen. Das sind
 dann zwei Kabinen bei denen die Zwischentür nicht verschlossen ist.
 

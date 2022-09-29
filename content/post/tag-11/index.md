@@ -11,7 +11,7 @@ wecken. Da ich dank meiner Medikamente eh kaum schlafe, ist mir das fast schon
 egal.
 
 Duschen, Rucksack schnappen und runter zum Frühstück. Wieder gibt es keinen
-Griechischen Joghurt. Meine liebste Proteinquelle. 😢 Auch einer der Gründe,
+griechischen Joghurt. Meine liebste Proteinquelle. 😢 Auch einer der Gründe,
 warum ich mich auf Griechenland freue.
 
 Ich wackel also zum Bahnhof, finde wieder eine erste Klasse vor und mache es mir
@@ -20,7 +20,7 @@ bequem. Die Fahrt dauert leider nur 15 Minuten.
 {{< figure src="oebb.webp" title="" >}}
 
 Der Wiener Flughafen ist ein Paradebeispiel an Organisation. Vom Zug zu
-meinem Platz im Flugzeug gibt es zu keinem Zeitpunkt klärungsbedarf, wohin ich
+meinem Platz im Flugzeug gibt es zu keinem Zeitpunkt Klärungsbedarf, wohin ich
 mich bewegen muss. Am Frankfurter Flughafen rennt man reihenweise in
 Menschentrauben, die sich verlaufen haben.
 
@@ -60,7 +60,7 @@ vollblutet während die Nadel noch im Arm steckt. Das sind Bilder, an die man si
 
 ---
 
-Unser Hotel ist sehr Modern eingerichtet (kein deutsches Standardhotel 😢), voll
+Unser Hotel ist sehr modern eingerichtet (kein deutsches Standardhotel 😢), voll
 klimatisiert und riecht überall nach Parfüm. Der Raum könnte allerdings nicht
 kleiner sein. Der Blick vom Balkon erinnert an die Gegend, in der man sich
 befindet.
