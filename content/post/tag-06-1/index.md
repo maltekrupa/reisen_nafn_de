@@ -11,7 +11,7 @@ einem anderen Gleis sehen. Der Zug ist leicht zu erkenne, weil er recht
 auffällig bemalt ist. Sollte es irgendwo einen Zirkuszug geben, stelle ich ihn
 mir so vor.
 
-{{< figure src="zirkuszug-aussen.webp" title="" >}}
+{{< figure src="nachtzug-aussen.webp" title="" >}}
 
 Der Bahnhof macht einen soliden Eindruck. Alles ist gut beschildert, die Personen
 an den Schaltern sind hilfsbereit und eine kleine Bäckerei gibt es auch.
