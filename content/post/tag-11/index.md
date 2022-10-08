@@ -24,8 +24,7 @@ meinem Platz im Flugzeug gibt es zu keinem Zeitpunkt Klärungsbedarf, wohin ich
 mich bewegen muss. Am Frankfurter Flughafen rennt man reihenweise in
 Menschentrauben, die sich verlaufen haben.
 
-Es ist nicht das erste mal, dass ich mir denke: "Österreich ist das bessere
-Deutschland".
+---
 
 In Athen angekommen versorgt mich Marina mit mitgebrachten Lebensmitteln. Im
 Flugzeug konnte man zwar etwas kaufen, aber das Kartenzahlgerät wollte von jedem
