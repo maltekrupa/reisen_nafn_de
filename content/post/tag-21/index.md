@@ -55,7 +55,7 @@ Zimmer, aber im Großen und Ganzen kann man ganz gut schlafen.
 
 {{< figure src="bye-griechenland.webp" title="" >}}
 
-Am Nächten Morgen fällt uns auf, dass wir wohl in der Nacht noch einen Hafen
+Am Nächsten Morgen fällt uns auf, dass wir wohl in der Nacht noch einen Hafen
 angesteuert haben. Die Aufenthaltsbereiche sind wesentlich gefüllter, als es am
 Abend noch der Fall war. Vor den Toiletten bilden sich lange Schlangen und
 überall liegen schlafende Gestalten.
