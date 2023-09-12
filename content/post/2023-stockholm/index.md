@@ -11,10 +11,11 @@ featured_image: intro.webp
 
 Am Wochenende war ich in Stockholm. Schweden habe ich schon oefter wegen der
 beeindruckenden Natur besucht, aber nie einen Fuss in eine der groesseren
-Staedte gesetzt. Die bisherigen Reisen gingen immer mit Bus oder Zug in die
-Natur von wo aus dann mit Kanu oder zu Fuss die Natur erkundet wurde.
+Staedte gesetzt. Die bisherigen Reisen gingen immer mit dem Bus in die Wildnis
+von wo aus dann mit Kanu oder zu Fuss die Natur erkundet wurde.
 
-TL;DR: Die Schweden leben in der Zukunft.
+TL;DR: ~~Die Schweden leben in der Zukunft.~~ Wir Deutsche leben in der
+Vergangenheit.
 
 Nachfolgend liste ich auf, was mich zu dieser Aussage bringt. Die genaue
 Situation werde ich mit einem (**wtf**) markieren.
@@ -67,17 +68,17 @@ Die Sitzplatzreservierung in Schweden konnte ich mit zwei Klicks stornieren. Das
 Geld habe ich mittlerweile schon zurueck. Bei der Deutschen Bahn ist das
 stornieren von Sitzplaetzen nicht vorgesehen. (**wtf**)
 
-Als Alternative habe ich dann zwei Flugtickets gebucht. Frankfurt/Stockholm in der
-Business Class fuer 1x 140 Euro und 1x 260 Euro. Ein paar Euro mehr fuer zwei Stunden
-im Flieger und gutes Essen vor und waehrend des Fluges. Zumindest in Frankfurt.
-Die SAS Businesslounge in Stockholm Arlanda war leider voellig ueberlaufen und kein
-Genuss.
+Als Alternative habe ich dann zwei Flugtickets gebucht. Frankfurt/Stockholm in
+der Business Class fuer 1x 140 Euro und 1x 260 Euro. Zwei Stunden im Flieger und
+gutes Essen vor und waehrend des Fluges. Zumindest in Frankfurt. Die SAS Lounge
+in Arlanda war leider voellig ueberlaufen und kein Genuss. In die Gold Lounge
+wollten sie mich leider nicht reinlassen.
 
 ## Ankunft
 
 {{< figure src="ffm-flugzeug.webp" alt="Foto eines Flugzeugs welches vor einem Gebaeude des Flughafens steht. Das Foto wurde aus einer Fluggastbruecke gemacht." >}}
 
-Genug der schlechte Laune aus Deutschland. Kommen wir zu den positiven
+Aber genug der schlechte Laune aus Deutschland. Kommen wir zu den positiven
 Erlebnissen in Schweden.
 
 Nach der Landung habe ich meinen Rucksack eingesammelt und mir Gedanken gemacht,
@@ -112,7 +113,7 @@ Tickets werden kurz nach der Abfahrt kontrolliert. "Tickets please", beeep,
 {{< figure src="arland-express.webp" alt="Foto des Arland Express, wie er im Hauptbahnhof steht." >}}
 
 Kurze Zeit spaeter faehrt der Zug mit 200 km/h nach Stockholm. Wir kommen an und
-... der Zug bleibt einfach stehen. In Deutschland gibt es einen Ruck, wenn der
+... der Zug bleibt einfach stehen. In Deutschland gibt es einen Ruck, wenn ein
 Zug stehen bleibt. Der kann schonmal relativ stark ausfallen und eine Person
 umwerfen. Hier nicht. (**wtf**) Sind die Zuege hier nicht Made in Germany?
 Bremsen die einfach sanfter? Ehrlich gesagt: I don't care. Ich will diesen
@@ -122,16 +123,14 @@ Komfort auch hier.
 
 Der restliche Teil ist eine grobe Zusammenfassung meiner Beobachtungen.
 
-Aber vorher noch ein kurzer Vergleich von Frankfurt und Stockholm mit Daten
+Aber vorher noch ein paar Zahlen zu Frankfurt und Stockholm mit Daten
 frisch aus der Wikipedia:
 
 |                    | Frankfurt | Stockholm |
-| ------------------ | -------- | -------- |
-| Einwohner          | 773.068  | 978.770  |
-| Flaeche            | 248 km^2 | 188 km^2 |
-| Einwohner/Flaeche  | 3113     | 5200     |
-
-Merke: Stockholm hat mehr Menschen auf weniger Flaeche.
+| ------------------ | --------- | --------- |
+| Einwohner          | 773.068   | 978.770   |
+| Flaeche            | 248 km^2  | 188 km^2  |
+| Einwohner/Flaeche  | 3100/km^2 | 5200/km^2 |
 
 ---
 
@@ -170,7 +169,7 @@ nicht, wohin sie ihren Blechhaufen lenken sollen. Fussgaenger verlieren dazu
 noch den Vorrang, den sie haben, wenn ihre Ampel auf gruen schaltet. Man wartet
 also auf nette Leute, die einen die Strasse queren lassen.
 
-In Stockholm ist jede Fussgaengerampel auch gleich ein Zebrastreifen.
+In Stockholm ist jede Fussgaengerampel auch ein Zebrastreifen.
 
 {{< figure src="ampel.webp" alt="Foto einer Ampel. Der Fussgaengerueberweg ist ein Zebrastreifen." >}}
 
