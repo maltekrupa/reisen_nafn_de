@@ -1,5 +1,5 @@
 title = "Das ist ein Test"
-baseURL = "https://interrail22.nafn.de/"
+baseURL = "https://reisen.nafn.de/"
 languageCode = "de-de"
 theme = "ananke"
 
