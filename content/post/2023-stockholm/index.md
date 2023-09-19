@@ -11,7 +11,7 @@ featured_image: intro.webp
 
 Am Wochenende war ich in Stockholm. Schweden habe ich schon oefter wegen der
 beeindruckenden Natur besucht, aber nie einen Fuss in eine der groesseren
-Staedte gesetzt. Die bisherigen Reisen gingen immer mit dem Bus in die Wildnis
+Staedte gesetzt. Die bisherigen Reisen gingen immer mit dem Bus in die Wildnis,
 von wo aus dann mit Kanu oder zu Fuss die Natur erkundet wurde.
 
 TL;DR: ~~Die Schweden leben in der Zukunft.~~ Wir Deutsche leben in der
@@ -93,7 +93,7 @@ Express](https://www.arlandaexpress.com/). Ein Zug der alle 15 Minuten zwischen
 Flughafen und Hauptbahnhof pendelt. Reisedauer: 18 Minuten. (**wtf**)
 
 Das Hin- und Rueckticket kostet ~50 Euro fuer eine Person und ist 90 Tage
-gueltig. Habe ich mich verlesen ... 90 Tage? "Die Luegen doch" war mein erster
+gueltig. Habe ich mich verlesen ... 90 Tage? "Die luegen doch" war mein erster
 Gedanke. Aber nein, es stimmt wirklich. (**wtf**)
 
 {{< figure src="arland-ticket.webp" alt="Screenshot eines Arland Express Ticket im Apple Wallet. Angezeigte Gueltigkeit bis 2023-12-07." >}}
@@ -105,7 +105,7 @@ Waehrend ich also das Ticket auf dem Handy klicke, laufe ich zum Aufzug des
 Arland Express und fahre damit unter die Erde. Der Zug steht schon mit offenen
 Tueren bereit. Der Komfort ist erste Klasse. Viel Platz fuer Personen, Gepaeck,
 Rollstuehle, Kinderwagen oder sonstiges. Dazu gibt es keine Stufen beim
-Einstieg. Besser wirds nicht, dachte ich mir.
+Einstieg. Besser wird es nicht, dachte ich mir.
 
 Tickets werden kurz nach der Abfahrt kontrolliert. "Tickets please", beeep,
 "Tak, have a nice day". <3
@@ -139,9 +139,9 @@ frisch aus der Wikipedia:
 Ist sauber. (**wtf**)
 
 Sonntag Morgen gegen halb sieben habe ich mich in die Laufschuhe gezwungen und
-die leere Stadt erkundet. Das dreckigste, was ich gesehen habe, war ein
+die leere Stadt erkundet. Das Dreckigste, was ich gesehen habe, war ein
 umgefallener Blumenkuebel und eine mittelgrosse Dose Helium. Ansonsten war die
-Stadt (fuer Frankfurter verhaeltnisse) sehr sauber.
+Stadt (fuer Frankfurter Verhaeltnisse) sehr sauber.
 
 ### Motorisierter Individualverkehr
 
@@ -167,7 +167,7 @@ Wenn in Deutschland eine Ampel ausfallen sollte, hat man als Fussgaenger eine
 schwere Zeit. Autofahrer sind oft mit der Situation ueberfordert und wissen
 nicht, wohin sie ihren Blechhaufen lenken sollen. Fussgaenger verlieren dazu
 noch den Vorrang, den sie haben, wenn ihre Ampel auf gruen schaltet. Man wartet
-also auf nette Leute, die einen die Strasse queren lassen.
+also auf nette Leute die einen die Strasse queren lassen.
 
 In Stockholm ist jede Fussgaengerampel auch ein Zebrastreifen.
 
@@ -228,10 +228,10 @@ wunderbaren schwedischen Natur.
 
 Am Regionalbahnhof des Flughafens sehe ich erst wie Touristen versuchen ein
 Ticket fuer die Bahn zu ziehen und fast daran verzweifeln, nur um dann 20
-Minuten auf eine Bahn richtung Innenstadt zu warten. Beim Bremsvorgang ist ein
+Minuten auf eine Bahn Richtung Innenstadt zu warten. Beim Bremsvorgang ist ein
 Paerchen mit grossen Koffern fast umgefallen.
 
 An der Konsti warte ich auf meine Anschluss-U-Bahn. Das Verbotsschild fuer
-Luftbalons erheitert mich immer wieder. Es sind 28 Grad und es riecht wie damals
-beim Schulausflug zur Klaeranlage. "Wie alt das Erbrochen wohl ist?" frage ich
-mich, als ich den Haufen vor der Rolltreppe sehe.
+Luftballons erheitert mich immer wieder. Es sind 28 Grad und es riecht wie
+damals beim Schulausflug zur Klaeranlage. "Wie alt das Erbrochen wohl ist?"
+frage ich mich, als ich den Haufen vor der Rolltreppe sehe.
