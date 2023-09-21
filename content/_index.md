@@ -7,5 +7,3 @@ featured_image: "train_station.webp"
 
 ---
 
-Eine Kurzschlussentscheidung führt uns per Zug durch Europa. Wie weit wir
-kommen, werden wir sehen.
