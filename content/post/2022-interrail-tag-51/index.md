@@ -2,6 +2,8 @@
 title: "Tag 52 - 11.000km spaeter"
 date: 2022-11-05T00:00:00+02:00
 toc: true
+url: "/post/tag-52/"
+
 summary: Ein kurzes Résumé.
 featured_image: interrail-final.webp
 ---
@@ -23,6 +25,9 @@ Die 11.000km haben wir mit folgenden Verkehrsmitteln zurueckgelegt.
 | Bus            | 5       | 59km    |
 | Faehre         | 3       | 791km   |
 | Flugzeug       | 3       | 4.484km  |
+
+
+Fuer interessierte, hier die GPX Dateien der Reise: [Download](./urlaub-gpx.zip)
 
 {{< figure src="interrail-final.webp" alt="Screenshot einer OpenStreetMap Landkarte. Eine eingezeichnete, rote Linie zeit den Weg, den wir zurueckgelegt haben." >}}
 
