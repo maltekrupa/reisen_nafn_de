@@ -15,6 +15,8 @@ Nach anfänglichen Problemen bei der Verbindungssuche hat ein Hinweis aus dem
 Forum von Interrail geholfen: Direkt bei den Anbietern suchen. Hätte man auch
 selbst drauf kommen können.
 
+<!--more-->
+
 Und tatsächlich geht das wesentlich einfacher von der Hand.
 Wir buchen also ein Doppelzimmer für eine Fähre, die 16 Stunden durch die Nacht
 fährt.

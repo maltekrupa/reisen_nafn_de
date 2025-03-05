@@ -15,6 +15,8 @@ gemacht habe, bewegen wir uns nach dem Auschecken zum Wiener Hauptbahnhof. Da
 die App nur die Zeiten des Zuges anzeigt, muss man vor Ort noch das Gleis und
 etwaige Verspätungen ausfindig machen.
 
+<!--more-->
+
 Nachdem das erledigt war, konnten wir in den Zug einsteigen (mit Maske, weil wir
 noch in Wien sind) und waren dann eine Stunde später in Bratislava (ohne Maske).
 

@@ -16,6 +16,8 @@ komisch](https://twitter.com/computerfoo/status/1571052456062357504).
 
 Am Bahnhof angekommen ist der Zug schon ausgeschrieben.
 
+<!--more-->
+
 {{< figure src="zugtafel.webp" title="" >}}
 
 Wir bewegen uns die paar Schritte zum Gleis und warten. Als der Zug eintrifft,

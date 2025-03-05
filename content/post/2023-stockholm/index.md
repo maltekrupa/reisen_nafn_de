@@ -14,6 +14,8 @@ beeindruckenden Natur besucht, aber nie einen Fuss in eine der groesseren
 Staedte gesetzt. Die bisherigen Reisen gingen immer mit dem Bus in die Wildnis,
 von wo aus dann mit Kanu oder zu Fuss die Natur erkundet wurde.
 
+<!--more-->
+
 TL;DR: ~~Die Schweden leben in der Zukunft.~~ Wir Deutsche leben in der
 Vergangenheit.
 

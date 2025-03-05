@@ -11,6 +11,8 @@ habe. Am Liebsten wäre ich nach Slovenien gefahren, weil mir die Zugstrecken
 und Städte dort gut gefallen, aber von dort gibt es keine Direktflüge nach
 Athen.
 
+<!--more-->
+
 Also, deutsches Standardhotel gebucht und ab zum Bahnhof. Die erste Klasse steht
 bereit und ich kanns nicht erwarten, wieder die Landschaft zu bewundern.
 

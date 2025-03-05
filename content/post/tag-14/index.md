@@ -14,6 +14,8 @@ neuen Bahnstrecke.
 Die Suche nach Verbindung wird getrübt durch die Tatsache, dass Aigio von jedem
 anders geschrieben wird. Aegion, Eigio ... 🤷
 
+<!--more-->
+
 Wir vertrauen der lokalen Bahngesellschaft und werden glücklicherweise
 nicht enttäuscht. Die Strecke von Athen nach Kiato ist anfangs von Armut
 getränkt, wechselt ausserhalb von Athen aber schnell in eine Augenweide.

@@ -11,13 +11,13 @@ uns nur recht sein, denn wir können erst ab 15 Uhr ins Hotel einchecken. Bis
 dahin müssen wir uns die Zeit vertreiben. Wir haben zwar schon ein paar
 Aktivitäten geplant, aber keine davon wird uns solange beschäftigen.
 
+<!--more-->
+
 Der Hauptbahnhof wirkt schlicht und leicht heruntergekommen.
 Eine Seite des langen Gangs ist gefüllt mit Fast-Food-Restaurants und
 Bäckereien, an der anderen Seite reiht sich ein Kiosk an den anderen.
 
 {{< figure src="hbf-innen.webp" title="" >}}
-
----
 
 Der eine Tag in Budapest war beeindruckend. Nach mittlerweile zwölf Jahren in
 Frankfurt dachte ich eigentlich, dass ich weiß wie eine autozentrierte Stadt

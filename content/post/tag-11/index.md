@@ -17,6 +17,8 @@ warum ich mich auf Griechenland freue.
 Ich wackel also zum Bahnhof, finde wieder eine erste Klasse vor und mache es mir
 bequem. Die Fahrt dauert leider nur 15 Minuten.
 
+<!--more-->
+
 {{< figure src="oebb.webp" title="" >}}
 
 Der Wiener Flughafen ist ein Paradebeispiel an Organisation. Vom Zug zu

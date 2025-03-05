@@ -1,10 +1,9 @@
 title = "Das ist ein Test"
 baseURL = "https://reisen.nafn.de/"
 languageCode = "de-de"
-theme = "ananke"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
 
 DefaultContentLanguage = "de"
-Paginate = 200
 googleAnalytics = ""
 enableRobotsTXT = true
 

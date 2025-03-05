@@ -13,6 +13,8 @@ Bevor es los geht muss allerdings die iOS App "Rail Planner" startklar gemacht
 werden. Runterladen, Interrail Ticket hinzufügen, Personalausweisnummer
 eintragen. Fertig.
 
+<!--more-->
+
 Mit dieser App kann man Verbindungen suchen und Tickets buchen. Für jeden Zug
 muss in der App ein eigenes Ticket gelöst werden.
 

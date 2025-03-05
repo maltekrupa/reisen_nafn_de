@@ -16,7 +16,7 @@ daher wenig aufgehübscht.
 
 Fangen wir an.
 
----
+<!--more-->
 
 Zum finanziellen Hintergrund: Anfang des Jahres haben wir geplant zum Campen
 nach Kanada zu fahren. Sehr schnell hat sich aber herausgestellt, dass dieser

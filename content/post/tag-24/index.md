@@ -10,7 +10,7 @@ Taranto war eine durchwachsene Erfahrung. Von Catanzaro erhoffe ich mir etwas
 mehr. Es soll eine kleine Stadt in den Bergen sein. Da kann man eigentlich nicht
 viel falsch machen. Sollte man meinen.
 
----
+<!--more-->
 
 Der Zug, ein IC von Trenitalia, steht pünktlich bereit und bringt uns sicher
 nach Catanzaro Lido. Die Strecke war eine Mischung aus Meerblick, vertrockneten

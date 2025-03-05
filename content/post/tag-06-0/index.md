@@ -7,8 +7,6 @@ featured_image: "thermoskanne.webp"
 
 ---
 
-{{< figure src="map.webp" title="250km - 4,5h" >}}
-
 Ein großer Tag. Heute wollen wir die erste Fahrt mit einem Nachtzug machen.
 Vorher müssen wir aber zum Abfahrtsort kommen.
 
@@ -16,6 +14,10 @@ Arad, der Abfahrtsort, liegt direkt hinter der Rumänischen Grenze.
 
 Was ich zu diesem Zeitpunkt noch nicht weiß: Rumänien ist nicht Mitglied des
 Schengener Abkommens, weshalb es dort Grenzkontrollen gibt.
+
+<!--more-->
+
+{{< figure src="map.webp" title="250km - 4,5h" >}}
 
 Muss man nicht wissen, kann aber hilfreich sein.
 
@@ -26,8 +28,6 @@ Nach längerem Hin und Her entscheiden wir uns für den Zug um 13:10 Uhr. Damit
 sollten wir in Arad noch zwei Stunden Zeit haben, bevor der Nachtzug seine Reise
 beginnt. Zwei Stunden Verspätung klingt auch unrealistisch. Dachten wir
 zumindest.
-
----
 
 Da wir laut Railplanner App eine Sitzplatzreservierung benötigen, bewegen wir
 uns nach dem Frühstück zum Hauptbahnhof. Dort angekommen ziehen wir eine
